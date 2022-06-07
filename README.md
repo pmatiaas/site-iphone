@@ -1,5 +1,4 @@
-#[ site-iphone]
-(https://pmatiaas.github.io/site-iphone/)
+https://pmatiaas.github.io/site-iphone/
 Site desenvolvido na aula de Introdução à Tecnologia Web
 Período: 1° período
 Curso: Sistema de Inforcação
